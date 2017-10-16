@@ -10,9 +10,9 @@
 
 Скрипты на PERL используются для Примера по вводу и редактированию данных расположенных на дата-сервере. 
 Пример находится на странице моего сайта: 
-cccp-planeta.ru/proba-edit.html
-cccp-planeta.ru/proba-task.html
+1. cccp-planeta.ru/proba-edit.html 
+2. cccp-planeta.ru/proba-task.html
 
 Скрипты на PHP используются для конечного вывода Таблицы сравнения цен на домены. 
 Таблица сравения цен на домены находится на странице моего сайта:
-cccp-planeta.ru/sravnenie-tsen-registrator-domen.html
+1. cccp-planeta.ru/sravnenie-tsen-registrator-domen.html
