@@ -1,4 +1,0 @@
-# proba-work
-
-
-redacting version
